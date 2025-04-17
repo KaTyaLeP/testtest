@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Привет%20всем!=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Привет%20всем!&=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
 </p>
 
 <!-- Typing SVG -->
