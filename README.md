@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=БИЦ-22-01+Лепёхина+Екатерина+и+Зонова+Алёна+Github+Profile.." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=БИЦ-22-01+Лепёхина+Екатерина+и+Зонова+Алёна" alt="Typing SVG"/>
 </p>
 
 <!-- Social Media Badges -->
