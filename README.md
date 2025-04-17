@@ -16,23 +16,6 @@ Why not contribute and add your own profile, by creating a pull request?
  
  ------------------------
 
-## To add your GitHub profile:
-
-1. Make an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues) setting the title as your name, and add your image url in it. Simply take a screenshot of your profile, and paste it in the comment, or upload it, and copy image address.
-
-2. Fork the project.
-
-3. In `data.json` add your own object to the end of the file, your entry should be similar to this example:
-
-```typescript
- {
-    "name": "Лепёхина Екатерина и Зонова Алёна",
-    "githubUsername": "Лепёхина Екатерина и Зонова Алёна",
-    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
-    "issueNumber": 1
-  }
-```
-
 **Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/Jaidevstudio/gh-action-community) will make the necessary changes for you.
 
 4. Now, create a pull request for your added changes, make the pull request title`add your-username` and in the description add `resolve #issueNumber`.
@@ -121,9 +104,4 @@ Thanks goes to these wonderful people <a href="https://allcontributors.org/docs/
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind welcome!
-{
-    "name": "Лепёхина Екатерина и Зонова Алёна",
-    "githubUsername": "Лепёхина Екатерина и Зонова Алёна",
-    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
-    "issueNumber": 1
-  }
+
