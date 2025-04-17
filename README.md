@@ -1,31 +1,4 @@
 
-# Unique Github Profiles 🙋‍♂️
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-**Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
- 
-![](https://img.shields.io/static/v1?label=Open-Source&message=Contribute&color=yellow)
-![](https://img.shields.io/static/v1?label=Inspiring&message=Github-Profiles&color=blue)
-![](https://img.shields.io/static/v1?label=Made-With&message=Markdown&color=green)
-
-Take a look at some GitHub user profiles, which you can you for *inspiration*, *ideas* or just to look at and approve!
-
-Why not contribute and add your own profile, by creating a pull request?
- 
- ------------------------
-
-**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/Jaidevstudio/gh-action-community) will make the necessary changes for you.
-
-4. Now, create a pull request for your added changes, make the pull request title`add your-username` and in the description add `resolve #issueNumber`.
-
-Any questions, feel free to ask!
-
-
-<!-- DO NOT EDIT THIS SECTION -->
-<!--START_SECTION:data-section-->
-
 <table width="100%"><tr>
  
 <td align="center"><p>
