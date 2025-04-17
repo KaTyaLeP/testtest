@@ -1,9 +1,4 @@
-{
-    "name": "Лепёхина Екатерина и Зонова Алёна",
-    "githubUsername": "Лепёхина Екатерина и Зонова Алёна",
-    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
-    "issueNumber": 1
-  }
+
 # Unique Github Profiles 🙋‍♂️
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
@@ -126,3 +121,9 @@ Thanks goes to these wonderful people <a href="https://allcontributors.org/docs/
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind welcome!
+{
+    "name": "Лепёхина Екатерина и Зонова Алёна",
+    "githubUsername": "Лепёхина Екатерина и Зонова Алёна",
+    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
+    "issueNumber": 1
+  }
